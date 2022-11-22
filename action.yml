@@ -1,4 +1,4 @@
-name: 'upload-release-asset-action'
+name: 'kubevela-action-upload-release-asset'
 description: 'An Action to upload a release asset.'
 author: 'KubeVela'
 inputs:
